@@ -13,6 +13,6 @@
 * SwiperJS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+<img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/436b5824-914c-4e25-b6c8-2a16eb9e4c02" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
